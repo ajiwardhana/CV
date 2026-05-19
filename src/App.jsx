@@ -1,4 +1,4 @@
-import profile from "./assets/profile.JPG";
+import profile from "./assets/profile.jpg";
 export default function ModernCV() {
 	return (
 		<div className="min-h-screen bg-gray-100 py-10 px-4 flex justify-center text-gray-900">
