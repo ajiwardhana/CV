@@ -19,12 +19,12 @@ body {
 }
 
 @media print {
-	@page {
-		size: A4;
-		margin: 10mm;
-	}
-
 	body {
 		background: white;
+	}
+
+	#root {
+		margin: 0;
+		padding: 0;
 	}
 }
