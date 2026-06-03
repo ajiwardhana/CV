@@ -100,7 +100,7 @@ export default function ModernCV() {
 									📄 {t.download}
 								</button>
 
-								<a href="https://portfolio-kamu.vercel.app" target="_blank" rel="noopener noreferrer" className="px-4 py-2 rounded-lg border border-gray-300 text-sm font-medium hover:bg-gray-100 transition">
+								<a href="https://portofolio-website-aji.vercel.app/" target="_blank" rel="noopener noreferrer" className="px-4 py-2 rounded-lg border border-gray-300 text-sm font-medium hover:bg-gray-100 transition">
 									🌐 {t.portfolio}
 								</a>
 
